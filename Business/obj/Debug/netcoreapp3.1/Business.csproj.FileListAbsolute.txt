@@ -12,3 +12,5 @@ C:\Users\BurcuAslan\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\B
 C:\Users\BurcuAslan\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\BurcuAslan\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\BurcuAslan\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\BurcuAslan\source\repos\ReCapProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurcuAslan\source\repos\ReCapProject\Business\bin\Debug\netcoreapp3.1\Core.pdb

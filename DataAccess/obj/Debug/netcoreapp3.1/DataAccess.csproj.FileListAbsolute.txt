@@ -10,3 +10,5 @@ C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1
 C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurcuAslan\source\repos\ReCapProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
