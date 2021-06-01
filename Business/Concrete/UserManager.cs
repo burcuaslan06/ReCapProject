@@ -37,6 +37,7 @@ namespace Business.Concrete
 
         public IResult Update(User user)
         {
+            _userDal.Update(user);
             return new SuccessResult(Messages.UserUpdated);
         }
     }
